@@ -24,7 +24,7 @@
 - Windows SDK + DirectX 11 (included with Visual Studio)
 
 ---
-#⚠️ Disclaimer
+# ⚠️ Disclaimer
 This software is provided for educational purposes only.
 The author assumes no responsibility for misuse, including cheating in online games or violating software terms of service.
 
