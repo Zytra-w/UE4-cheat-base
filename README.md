@@ -15,6 +15,12 @@ Despite that, the project remains a valuable and reusable **template** for build
 
 ---
 
+## General notes on the project
+
+- This project currently need to be fixed
+  
+---
+
 ##  Features
 
 -  Graphical overlay using **ImGui**
